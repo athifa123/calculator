@@ -1,0 +1,40 @@
+body{
+    color: rgb(240, 115, 13);
+}
+
+.container{
+    text-align: center;
+    margin-top: 30px;
+    background-color: rgb(206, 96, 142);
+    
+}
+
+table{
+    margin: auto;
+    font-size: 30px;
+}
+
+input{
+    color: rgb(88, 8, 21);
+    background-color: rgb(235, 128, 39);
+    width: 410px;
+    height: 50px;
+    border: 5px solid rgb(237, 6, 45);
+    border-radius: 10px;
+
+}
+ .container > .calculator button{
+    background-color: rgb(5, 98, 169);
+    color: black;
+    height:50px;
+    width: 100px;
+    border: 3px solid rgb(6, 237, 114);
+    border-radius: 50px;
+}
+
+.calculator{
+    display: inline-block;
+    margin: 5px; 
+    border: 10px solid rgb(205, 200, 50);
+    border-radius: 20px ;
+}
